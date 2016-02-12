@@ -1,0 +1,44 @@
+h1 {
+  font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+  font-size: 127px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: rgb(249,160,93);
+}
+
+.main-nav.nav > li > a {
+  color: rgb(249,160,93);
+  font-size: 200%;
+}
+
+.main-nav.nav > li.active > a {
+  background-color: rgb(184,233,135);
+}
+
+.verticalLane {
+  border-left: thick solid #ff0000;
+}
+
+.about, .offers {
+  font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+
+}
+
+.about {
+  color: rgb(88,132,43);
+
+}
+
+.about > h2, .offers > h2 {
+   font-size: 300%;
+}
+
+.offers {
+  color: rgb(249,150,93);
+}
+
+.about > p, .offers > p {
+      font-size: 150%; 
+}
