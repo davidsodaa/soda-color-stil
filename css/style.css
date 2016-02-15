@@ -1,6 +1,6 @@
 h1 {
   font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
-  font-size: 127px;
+  font-size: 100px;
   font-style: normal;
   font-variant: normal;
   font-weight: 500;
@@ -36,9 +36,19 @@ h1 {
 }
 
 .offers {
-  color: rgb(249,150,93);
+  color: rgb(252,123,11);
 }
 
 .about > p, .offers > p {
-      font-size: 150%; 
+      font-size: 150%;
+}
+
+.footer {
+    color: black;
+    font-size: 150%;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+}
+
+.footer1 {
+  font-size:130%;
 }
